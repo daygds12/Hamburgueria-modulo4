@@ -1,0 +1,25 @@
+{
+  "name": "modulo4",
+  "version": "1.0.0",
+  "description": "Projeto Hamburgueria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js"
+  },
+  "author": "Dayane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daygds12/Hamburgueria-modulo4.git"
+  },
+  
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
