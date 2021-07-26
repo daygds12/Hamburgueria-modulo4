@@ -17,5 +17,4 @@ app.get('/', (req, res) => {
 clienteControl(app, bd)
 
 //Abrir o servidor 
-
 app.listen(port)
