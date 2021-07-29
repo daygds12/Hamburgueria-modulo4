@@ -23,7 +23,7 @@ $ npm express
 $ npm run dev:server
 
 
-#Tecnologias utilizadas 
+## Tecnologias utilizadas 
 -Javascript 
 -Nodejs
 -sqlite
