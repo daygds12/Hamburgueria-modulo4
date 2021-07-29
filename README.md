@@ -9,10 +9,22 @@ Projeto Finalizado
 
 
 ## Como executar?
-1. Instale o node js
+# Clone este repositório
+$ git clone <https://github.com/daygds12/Hamburgueria-modulo4>
+
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ npm install
+$ npm express
+
+# Execute a aplicação 
+$ npm run dev:server
 
 
 #Tecnologias utilizadas 
-.Javascript 
-.Nodejs
-.sqlite
+-Javascript 
+-Nodejs
+-sqlite
+-Insomnia
